@@ -11,10 +11,7 @@ export const Bottom = () => {
           <Icon
             name="add"
             color={COLORS.white}
-            size={32}
-            onPress={() => {
-              console.log("EKLEME");
-            }}></Icon>
+            size={32}></Icon>
         </View>
       </View>
       <View style={styles.middle}>
